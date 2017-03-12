@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.emf.common_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.uml_5.2.2.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.emf.ecore_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.common_2.1.0.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.types_2.0.0.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.emf.mapping.ecore2xml_2.9.0.v20160526-0356.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.uml.resources_5.2.0.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.uml.profile.standard_1.0.100.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2.uml.ecore.importer_3.1.0.v20161114-0827.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUEC007/DevTools/eclipse/eclipse-committers-neon-2-win32/eclipse/plugins/org.eclipse.uml2_5.2.0.v20161114-0827.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
